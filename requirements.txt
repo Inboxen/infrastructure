@@ -16,5 +16,4 @@ psycopg2
 pytz
 -e git+https://github.com/moggers87/django-watson.git@view-mixin-kwargs#egg=django-watson
 -r queue/requirements.txt
--r router/requirements.txt
 -r website/requirements.txt
